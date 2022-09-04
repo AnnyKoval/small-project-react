@@ -14,10 +14,10 @@
 }
 
 .App-header {
-  background: radial-gradient(
-    circle at 5.6% 54.5%,
-    rgb(47, 71, 79) 0%,
-    rgb(159, 188, 198) 83.6%
+  background: linear-gradient(
+    180.3deg,
+    rgb(221, 221, 221) 5.5%,
+    rgb(110, 136, 161) 90.2%
   );
 
   min-height: 100vh;
@@ -26,7 +26,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #b46287;
 }
 
 .App-link {
