@@ -1,6 +1,8 @@
 .banner {
   max-width: 80%;
   margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: rgb(125, 160, 242) 0px 20px 30px -10px;
 }
 
 .flex-container {
@@ -26,4 +28,6 @@ img {
 
 .photo-img {
   width: 80%;
+  border-radius: 10px;
+  box-shadow: rgb(125, 160, 242) 0px 20px 30px -5px;
 }
