@@ -1,4 +1,4 @@
-# Training project on React. Simple responsive landing.
+# Training project on React form Coursera workshop "React Basics". Simple responsive landing.
 
 
 # Getting Started with Create React App
